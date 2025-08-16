@@ -1,0 +1,43 @@
+FocusFlow - Anime Discovery App
+===============================
+
+QUICK INSTALL GUIDE
+===================
+
+1. Download: FocusFlow-v1.0.apk (25MB)
+
+2. Enable Unknown Sources:
+   - Settings > Security > Unknown Sources (ON)
+   - Or: Settings > Apps > Install Unknown Apps > Enable for your browser/file manager
+
+3. Install:
+   - Tap the downloaded APK file
+   - Tap "Install" when prompted
+
+4. Launch:
+   - Find FocusFlow in your app drawer
+   - Tap to open and enjoy!
+
+REQUIREMENTS
+============
+- Android 7.0 or higher
+- Internet connection for anime data
+- ~50MB free storage space
+
+FEATURES
+========
+- Modern carousel with auto-scroll
+- Filter anime by genres
+- Watch trailers in-app
+- Offline caching (1 hour)
+- Dark theme with smooth animations
+- Favorite anime tracking
+
+TROUBLESHOOTING
+===============
+- If installation fails: Check Android version (need 7.0+)
+- If app crashes: Restart device and try again
+- If no data loads: Check internet connection
+- If videos don't play: Enable internet connection
+
+Enjoy discovering amazing anime! 🎌
