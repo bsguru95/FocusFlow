@@ -4,8 +4,8 @@ FocusFlow - Anime Discovery App
 QUICK INSTALL GUIDE
 ===================
 
-1. Download: FocusFlow-v1.0-installable.apk (13MB) - RECOMMENDED
-   Alternative: FocusFlow-v1.0.apk (25MB) - may have install issues
+1. Download: FocusFlow-v1.1-installable.apk (13MB) - RECOMMENDED
+   Alternative: FocusFlow-v1.1.apk (25MB) - may have install issues
 
 2. Enable Unknown Sources:
    - Settings > Security > Unknown Sources (ON)
