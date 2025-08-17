@@ -3,14 +3,15 @@
 ## 📱 Download & Install
 
 **Latest Version:** v1.0  
-**File Size:** 25MB  
-**Android Version Required:** Android 7.0+ (API 24)
+**Recommended APK:** `FocusFlow-v1.0-installable.apk` (13MB)  
+**Android Version Required:** Android 8.0+ (API 26)
 
 ### 🚀 Installation Instructions
 
 1. **Download the APK**
-   - Download `FocusFlow-v1.0.apk` from this folder
-   - File size: ~25MB
+   - **Recommended:** Download `FocusFlow-v1.0-installable.apk` (13MB) - **This is signed and should install without issues**
+   - Alternative: `FocusFlow-v1.0.apk` (25MB) - Unsigned release version (may have installation issues)
+   - Alternative: `FocusFlow-v1.0-signed.apk` (32MB) - Larger debug version
 
 2. **Enable Unknown Sources** (if not already enabled)
    - Go to **Settings** > **Security** (or **Privacy**)
@@ -70,7 +71,7 @@ This app requires the following permissions:
 
 ## 🎯 **Compatibility**
 
-- **Minimum Android Version**: 7.0 (API 24)
+- **Minimum Android Version**: 8.0 (API 26)
 - **Target Android Version**: 14 (API 34)
 - **Architecture**: Universal APK (supports all architectures)
 - **Screen Sizes**: Phones and small tablets
@@ -79,7 +80,7 @@ This app requires the following permissions:
 ## 📞 **Support**
 
 If you encounter any issues:
-1. Make sure you have Android 7.0 or higher
+1. Make sure you have Android 8.0 or higher
 2. Ensure you have a stable internet connection for initial setup
 3. Try clearing the app cache if you experience any glitches
 4. Restart the app if videos don't load properly
